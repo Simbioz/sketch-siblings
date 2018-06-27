@@ -1,0 +1,21 @@
+{
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Hide Siblings",
+      "identifier": "hide-siblings",
+      "script": "./commands/hide-siblings.js"
+    },
+    {
+      "name": "Show Siblings",
+      "identifier": "show-siblings",
+      "script": "./commands/show-siblings.js"
+    }
+  ],
+  "menu": {
+    "title": "Siblings",
+    "items": ["hide-siblings", "show-siblings"]
+  }
+}
