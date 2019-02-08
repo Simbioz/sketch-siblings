@@ -19,12 +19,12 @@
     "postinstall": "npm run build && skpm-link"
   },
   "devDependencies": {
-    "@skpm/builder": "^0.5.2",
-    "babel-eslint": "^8.2.3",
-    "eslint": "^4.19.1"
+    "@skpm/builder": "^0.5.13",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.13.0"
   },
   "author": "Michaël Fortin <fortinmike@irradiated.net>",
   "dependencies": {
-    "lodash-es": "^4.17.10"
+    "lodash-es": "^4.17.11"
   }
 }
