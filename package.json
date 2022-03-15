@@ -25,6 +25,6 @@
   },
   "author": "Michaël Fortin <fortinmike@irradiated.net>",
   "dependencies": {
-    "lodash-es": "^4.17.14"
+    "lodash-es": "^4.17.21"
   }
 }
